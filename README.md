@@ -1,0 +1,2 @@
+# applied-research
+Factor timing
