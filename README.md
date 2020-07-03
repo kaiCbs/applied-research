@@ -11,7 +11,7 @@
 
 ## Resource
 
-- [When Buffett Was a Quant]('resource/When_Buffet_was_a_Quant.pdf')
+- [When Buffett Was a Quant](resource/When_Buffet_was_a_Quant.pdf)
 
 
 
