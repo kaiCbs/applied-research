@@ -1,6 +1,5 @@
 # Factor timing
 
-# Kate 2.0
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/kaiCbs/applied-research/blob/master/README.md)
 
 
